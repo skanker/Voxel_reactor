@@ -1,0 +1,5 @@
+{
+  "name": "Voxel Nuclear Reactor Explorer",
+  "description": "An interactive 3D voxel-based demonstration of how a nuclear reactor works, featuring a step-by-step guided tour and an AI-powered physics tutor.",
+  "requestFramePermissions": []
+}
